@@ -1,0 +1,86 @@
+subtitles.mob.sheep=Ovca blejaje
+subtitles.mob.hicken=Kura kvokaje
+subtitles.mob.hicken.hurt=Kura je poranila se
+subtitles.mob.hicken.plop=Kura snosi jajce
+subtitles.mob.pig=Svinja grohtaje
+subtitles.mob.pig.death=Svinja pogynaje
+subtitles.mob.volf.hovl=Volk vyje
+subtitles.mob.volf.panting=Volk dyhti
+subtitles.mob.volf.hurt=Volk je poranil se
+subtitles.mob.volf.bark=Volk laje
+subtitles.mob.volf.grovl=Volk buče
+subtitles.mob.volf.death=Volk pogynaje
+subtitles.mob.volf.vhine=Volk cvili
+subtitles.mob.volf.shake=Volk odpraši se
+subtitles.mob.cov.hurt=Krava je poranila se
+subtitles.mob.cov=Krava mučaje
+subtitles.mob.zombie=Zombi ryčit
+subtitles.mob.zombie.hurt=Zombi reve
+subtitles.mob.zombie.death=Zombi pogynaje
+subtitles.mob.zombiepig.zpighurt=Svinozombi je poranil se
+subtitles.mob.zombiepig.zpig=Svinozombi reve
+subtitles.mob.zombiepig.zpigdeath=Svinozombi pogynaje
+subtitles.mob.zombiepig.zpigangry=Svinozombi gněvaje se
+subtitles.mob.skeleton=Skelet stukaje kostami
+subtitles.mob.skeleton.death=Skelet pogynaje
+subtitles.mob.skeleton.hurt=Skelet je poranil se
+subtitles.mob.ghast.fireball=Ognjena kulja gasta
+subtitles.mob.ghast.moan=Gast plače
+subtitles.mob.ghast.death=Gast pogynaje
+subtitles.mob.ghast.scream=Krik gasta
+subtitles.mob.ghast.affectionate_scream=Čutny krik gasta
+subtitles.mob.creeper=Kriper skvrči
+subtitles.mob.creeper.death=Kriper pogynaje
+subtitles.mob.spider.death=Pavuk pogynaje
+subtitles.mob.spider=Pavuk skvrči
+subtitles.mob.ghast.harge=Gast izstrěli
+subtitles.mob.slime.attack=Slimak atakuje
+subtitles.mob.slime=Slimak
+
+subtitles.fall.small=Maly upad
+subtitles.damage.fall.big=Veliky upad
+
+subtitles.likvid.vater=Voda teče
+subtitles.likvid.lava.pop=Klokot lavy
+subtitles.likvid.lava=Klokot lavy
+subtitles.likvid.splash=Bryzganje vody
+
+subtitles.portal.portal=Zavytje portala
+subtitles.portal.trigger=Vhod v portal
+subtitles.portal.travel=Izhod iz portala
+
+subtitles.random.fizz=Skvrčanje
+subtitles.random.drr=Pronikanje strěloju
+subtitles.random.fuse=Fitilj TNT je zapalil se
+subtitles.random.pop=Podbradok prědmeta
+subtitles.random.glass=Steklo
+subtitles.random.door_open=Dveri otvorili se
+subtitles.random.door_close=Dveri zamknuli se
+subtitles.random.eksplode=Izbuh
+subtitles.random.bov=Izstrěl
+subtitles.random.hurt=Poranjenje
+subtitles.random.splash=Bryzganje
+subtitles.random.breath=Dyhanje
+subtitles.random.bite=Igrač jedaje
+subtitles.random.ekvip=Bronja je nanizana
+
+subtitles.note.snare=Maly baraban
+subtitles.note.harp=Harfa
+subtitles.note.bass=Bas
+subtitles.note.bd=Veliky baraban
+subtitles.note.pling=Elektroklavir
+subtitles.note.hat=Talirky
+subtitles.note.bassattack=Struna
+
+subtitles.ambient.veather.thunder=Blěskavica
+subtitles.ambient.cave=Zvuky jam
+subtitles.ambient.veather.rain=Dožd
+
+subtitles.tile.piston.out=Poršenj je vključeny
+subtitles.tile.piston.in=Poršenj je izključeny
+
+subtitles.hurt.flesh=Bolj ploti
+
+subtitles.fire.ignite=Ogonj je zažegl se
+subtitles.fire.fire=Ogonj razgarjaje se
+
