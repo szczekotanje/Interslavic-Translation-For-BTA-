@@ -1,0 +1,479 @@
+gui.achievement.label.get=Postup je dokonany!
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Nelicenciona kopija :(
+gui.achievement.label.unlicensed.2=(či vhod iz drugogo města)
+gui.achievement.label.unlicensed.3=Kupite na minecraft.net
+
+gui.achievements.button.done=Gotovo
+gui.achievements.label.title=Postupy
+gui.achievements.label.taken=Dokonany!
+gui.achievements.label.requires=Trěba '%1$s'
+gui.achievements.label.secret=???
+gui.achievements.label.secret.desc=???
+gui.achievements.label.completion=%1$s je dokonany!
+
+gui.achievements.page.vanilla.name=Vanilla
+gui.achievements.page.vanilla.desc=Postupy Better than Adventure!
+gui.achievements.page.overworld.name=Vrhny svět
+gui.achievements.page.overworld.desc=Postupy početkovogo světa!
+gui.achievements.page.nether.name=Nezer
+gui.achievements.page.nether.desc=Nezerske postupy!
+
+gui.add_server.label.title=Dodati
+gui.add_server.button.save=Shraniti
+gui.add_server.button.cancel=Anulacija
+gui.add_server.button.show_ip=Pokazyvati IP: %s
+gui.add_server.button.show_ip.on=VKLJ
+gui.add_server.button.show_ip.off=IZKLJ
+gui.add_server.label.server_name=Ime servera
+gui.add_server.label.ip_address=IP adres
+
+gui.bad_java_arch.label.title=32-bitna versija Java je byla izjavjena!
+gui.bad_java_arch.label.body.1=Prividno vy zapuščajete Better than Adventure na 32-bitnoj versije Java.
+gui.bad_java_arch.label.body.2=To može stvoriti problemov s razkladanjem pameti, sodrživajuče v sebe zadržniky
+gui.bad_java_arch.label.body.3=i možlive izlěty.
+gui.bad_java_arch.label.body.4=Prošu, ustanovite 64-bitnu versiju JRE, napriměr, Eclipse Temurin.
+gui.bad_java_arch.button.download=Dodati
+gui.bad_java_arch.button.continue=Prodolžiti
+
+gui.no_jce.label.title=§l§4Java Cryptography Ekstension (JCE) ne je najdena!§r
+gui.no_jce.label.body.1=Prividno, vy zapuščajete Better than Adventure! bez JCE.
+gui.no_jce.label.body.2=§l§eto slomi něktore črty, kak igra mnogokoristna!§r
+gui.no_jce.label.body.3=
+gui.no_jce.label.body.4=Prošu, razgledite možlivost dostati veče aktualnoj versije JRE
+gui.no_jce.label.body.5=s vključenym razširjenjem, kak Eclipse Temurin.
+gui.no_jce.label.body.intel.disclaimer.1=Iz-za problem s kompatibilnostju orudovanja Intel Graphics
+gui.no_jce.label.body.intel.disclaimer.2=vam, pravdopodobno, trěba bude obnoviti suču instalaciju Java,
+gui.no_jce.label.body.intel.disclaimer.3=da by vključiti razširjenje JCE.
+gui.no_jce.button.download.recommended=Dostati Java (Rekomenduje se!)
+gui.no_jce.button.download=Dostati Java
+gui.no_jce.button.upgrade=JCE patč
+gui.no_jce.button.upgrade.recommended=JCE patč (Rekomenduje se!)
+gui.no_jce.button.back=Glavny menju
+gui.no_jce.button.continue=Ignorovati ostrěženje
+
+gui.no_minecraft.label.title=Minecraft Beta 1.7.3 ne je najdena!
+gui.no_minecraft.label.body.1=Prividno, vy zapuščajete Better than Adventure! bez Minecraft Beta 1.7.3.
+gui.no_minecraft.label.body.2=Better than Adventure! trěba byti ustanovjeny s oficialnoju kopijeju
+gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 dlja korektnoj raboty.
+gui.no_minecraft.label.body.4=Dany problem voznikaje, ako vy jeste provedli hybu v čas instalacije
+gui.no_minecraft.label.body.5=Prošu, opoznajte s gajdom po instalacije, ukazanym niže.
+gui.no_minecraft.button.guide=Gajd po instalacije
+gui.no_minecraft.button.quit=Izhod iz igry
+
+
+gui.conflict_warning.label.title=Konflikt bezopasnosti světa
+gui.conflict_warning.label.body.1=Minecraft je izjavil konflikt v shranjenyh danyh světa.
+gui.conflict_warning.label.body.2=To može vozniknuti iz-za dvoh zapuščenyh kopij igry,
+gui.conflict_warning.label.body.3=imajučeh dostup k jednomu světu.
+gui.conflict_warning.label.body.4=Da by izběgti poškodženja světa, tekuča igra bude dokončena.
+gui.conflict_warning.button.back=Nazad v menju
+
+gui.connect_failed.label.title=Hyba sjedinjenja k serveru
+gui.connect_failed.button.back=Nazad v menju
+
+gui.connect_to_ip.button.connect=Podključiti se
+gui.connect_to_ip.button.cancel=Anulacija
+gui.connect_to_ip.label.title=Podključenje po IP
+gui.connect_to_ip.label.enter_ip=Vvedite IP servera, da by vojdti:
+
+gui.connecting.button.cancel=Anulacija
+gui.connecting.label.connecting=Podključenje k serveru...
+gui.connecting.label.logging_in=Vhod...
+
+gui.controller_setup.button.back=Nazad
+gui.controller_setup.label.no_controller_selected=Kontroler ne je izbrany!
+
+gui.crafting.label.crafting=Stvorjenje
+gui.crafting.label.inventory=Orudovanje
+
+gui.create_world.label.title=Stvorjenje světa
+gui.create_world.label.world_name=Nazva
+gui.create_world.label.seed=Ključ generatora světa
+gui.create_world.button.create_new_world=Stvoriti novy svět
+gui.create_world.button.cancel=Anulacija
+gui.create_world.button.gamemode=%s
+gui.create_world.button.cheats=Čitkody: %s
+gui.create_world.button.cheats.on=VKLJ
+gui.create_world.button.cheats.off=IZKLJ
+gui.create_world.button.world_settings=Opcije světa
+gui.create_world.label.new_world=Novy svět
+
+gui.world_settings.label.title=Opcije světa
+gui.world_settings.button.done=Gotovo
+gui.world_settings.page.game_rules.title=Igrove pravila
+gui.world_settings.page.world_settings.title=Opcije světa
+gui.world_settings.page.world_settings.category.overworld=Vrhny svět
+gui.world_settings.page.world_settings.category.nether=Nezer
+gui.world_settings.page.game_rules.button.on=VKLJ
+gui.world_settings.page.game_rules.button.off=IZKLJ
+gui.world_settings.page.mob_spawning.title=Spavn mobov
+gui.world_settings.page.mob_spawning.button.on=VKLJ
+gui.world_settings.page.mob_spawning.button.off=IZKLJ
+gui.world_settings.page.mob_spawning.hostile=Pasivne spavny
+gui.world_settings.page.mob_spawning.passive=Neprijateljske spavny
+gui.world_settings.label.starting_biome=Početkovy biom
+gui.world_settings.page.starting_biome.biome.none=Vsaky
+gui.world_settings.label.select_world_type=Izbrati tip světa
+gui.world_settings.label.world_type=Tip světa
+
+gui.select_server.page.internet.title=Internet
+gui.select_server.page.favorites.title=Omiljene
+gui.select_server.page.history.title=Historija
+gui.select_server.page.lan.title=Lokalna sět
+gui.select_server.page.direct_connect.title=Premo podključenje
+
+gui.dispenser.label.dispenser=Izkydatnik
+gui.dispenser.label.inventory=Orudovanje
+
+gui.activator.label.activator=Aktivator
+gui.activator.label.inventory=Orudovanje
+
+gui.downloading_terrain.label.title=Nalaganje krajevida
+
+gui.edit_flag.label.inventory=Orudovanje
+
+gui.edit_label.label.title=Redaktovanje imennoj značky:
+gui.edit_label.button.done=Gotovo
+
+gui.edit_sign.label.title=Redaktovanje vyvěsky:
+gui.edit_sign.button.done=Gotovo
+
+gui.exception.label.exception_occurred=Je pojavilo se izključenje!
+gui.exception.label.fatal_error=Je vozniknula kritična hyba!
+gui.exception.label.startup_error=Hyba zapuščanja Minecraft!
+gui.exception.button.copy_error=Kopirovati
+gui.exception.button.copy_error_and_quit=Kopirovati i vyjdti
+gui.exception.button.back=Nazad v menju
+
+gui.furnace.label.furnace=Peč
+gui.furnace.blast.label.blast_furnace=Plaviljnja
+gui.furnace.label.inventory=Orudovanje
+
+gui.game_over.label.title=Vy jeste umrli!
+gui.game_over.label.score=Rezultat: %s
+gui.game_over.button.respawn=Vozroditi se
+gui.game_over.button.respawn.spectator=Pozirati
+gui.game_over.button.title_screen=Glavny menju
+
+gui.guidebook.label.title=Provodnik
+
+gui.ingame.label.now_playing=Tutčas igraje: %s
+
+gui.ingame_menu.label.title=Menju
+gui.ingame_menu.label.score=Rezultat: %s
+gui.ingame_menu.label.saving=Shranjenje...
+gui.ingame_menu.button.save_and_quit=Shraniti i vyjdti
+gui.ingame_menu.button.disconnect=Odključiti se
+gui.ingame_menu.button.back_to_game=Vratiti v igru
+gui.ingame_menu.button.options=Opcije...
+gui.ingame_menu.button.photo_mode=Režim-snimok...
+gui.ingame_menu.button.achievements=Postupy
+gui.ingame_menu.button.statistics=Statistiky
+
+gui.inventory.label.crafting=Stvorjenje
+gui.inventory.creative.label.search=Poisk...
+
+gui.loading.label.generating=Generacija světa...
+gui.loading.label.loading=Nalaganje světa...
+gui.loading.label.entering=Vhod v %s...
+gui.loading.label.leaving=Izhod iz %s...
+
+gui.main_menu.label.splash.jonkadelic_birthday=Ščestnogo dnja rodženja, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=Ščestnogo dnja rodženja, Maggandgeez!
+gui.main_menu.label.splash.minecraft_birthday=Ščestnogo dnja rodženja, Minecraft!
+gui.main_menu.label.splash.bta_birthday=Ščestnogo dnja rodženja, Better than Adventure!
+gui.main_menu.label.splash.xmas=Veselogo Rodženja!
+gui.main_menu.label.splash.halloween=Ščestnogo Hellouina!
+gui.main_menu.label.splash.new_year=Ščestnogo Novogo Goda!
+gui.main_menu.label.disclaimer.1=Avtorstvo Mojang Studios. Neoficialny Minecraft produkt.
+gui.main_menu.label.disclaimer.2=Ne je odobrjeny i ne je svezany s Mojang Studios či Microsoft.
+gui.main_menu.label.downloading_resources.1=Dostanje resursov
+gui.main_menu.label.downloading_resources.2=Pri tom procesu zvuky mogut ne igrati!
+gui.main_menu.label.downloading_resources.connection.error=Ne je udalo se dostati zvuky!
+gui.main_menu.button.singleplayer=Igra jednokoristna
+gui.main_menu.button.multiplayer=Igra mnogokoristna
+gui.main_menu.button.multiplayer.disabled=Sěteva igra (ne je gotova!)
+gui.main_menu.button.asset_packs=Pakety resursov
+gui.main_menu.button.options=Opcije...
+gui.main_menu.button.quit_game=Vyjdti iz igry
+gui.main_menu.button.discord=Discord
+gui.main_menu.button.youtube=Youtube
+gui.main_menu.button.website=Veb-sajt
+gui.main_menu.button.credits=Avtory
+
+gui.out_of_memory.label.title=Nedostatočno pameti!
+gui.out_of_memory.label.body.1=Nedostatočno pameti dlja Minecraft.
+gui.out_of_memory.label.body.2=To može privesti k hybam v igrě či iz-za
+gui.out_of_memory.label.body.3=Java Virtual Mahine, ne razloživši dostatočno
+gui.out_of_memory.label.body.4=pameti.
+gui.out_of_memory.label.body.5=Da by izběgti poškodženij v světu, tekuča igra bude dokončena.
+gui.out_of_memory.label.body.6=Prošu, prězapuščite igru.
+
+gui.options.title=Opcije
+gui.options.button.done=Gotovo
+gui.options.label.select_page=Izbor stranicy
+gui.options.label.picking_keybinding=Natisknite klavišu či knopku myši, dlja privezanja k '%s'.
+
+gui.options.page.general.title=Obče
+gui.options.page.general.button.open_worlds_folder=Otvoriti světy
+gui.options.page.general.button.open_screenshots_folder=Otvoriti snimky
+gui.options.page.general.button.edit_hud=Redaktovati HUD...
+gui.options.page.general.category.gameplay=Igrovy proces
+gui.options.page.general.category.user_interface=Interfejs
+gui.options.page.general.category.miscellaneous=Inako
+
+gui.options.page.player.title=Igrač
+gui.options.page.player.category.player=Igrač
+
+gui.options.page.audio.title=Audio
+gui.options.page.audio.category.audio=Audio
+gui.options.page.audio.category.debug=Debugovanje
+gui.options.page.audio.reload=Reload Sound Engine
+
+gui.options.page.accessibility.title=Dostupnost
+gui.options.page.accessibility.category.accessibility=Dostupnost
+
+gui.options.page.video.title=Video
+gui.options.page.video.category.display=Displej
+gui.options.page.video.category.visuals=Izgled
+gui.options.page.video.category.post_processing=Post-obrabotanje
+gui.options.page.video.category.performance=Proizvoditelnost
+
+gui.options.page.controls.title=Kontroly
+gui.options.page.controls.button.controller_setup=Opcije kontrolera...
+gui.options.page.controls.button.key.unbound=Nemaje privezky
+gui.options.page.controls.category.mouse=Myš
+gui.options.page.controls.category.keyboard=Klaviatura
+gui.options.page.controls.category.controller=Kontroler
+gui.options.page.controls.category.interactions=Interakcija
+gui.options.page.controls.category.movement=Prědviženje
+gui.options.page.controls.category.user_interface=Interfejs
+gui.options.page.controls.category.hud_editor=HUD redaktor
+gui.options.page.controls.category.hotbar=Hotbar
+gui.options.page.controls.category.view=Kamera
+gui.options.page.controls.category.miscellaneous=Inako
+
+gui.options.page.asset_packs.title=Pakety resursov
+gui.options.page.asset_packs.category.textures=Tekstury
+gui.options.page.asset_packs.category.asset_packs.available=Dostupne pakety resursov
+gui.options.page.asset_packs.category.asset_packs.selected=Izbrane pakety resursov
+gui.options.page.asset_packs.button.open_folder=Otvoriti papku
+gui.options.page.asset_packs.button.apply=Priměniti pakety resursov
+gui.options.page.asset_packs.label.no_packs=Pakety resursov ne sut najdene :(
+gui.options.page.asset_packs.label.outdated_pack.1=Zastarěly paket!
+gui.options.page.asset_packs.label.outdated_pack.2=Toj paket je byl stvorjeny ne dlja toj versije BTA!
+
+gui.options.page.language_packs.title=Pakety jezykov
+gui.options.page.language_packs.category.language_packs=Pakety jezykov
+gui.options.page.language_packs.button.open_folder=Otvoriti papku
+
+gui.options.page.debug.title=Menju debugovanja
+gui.options.page.debug.category.controls=Debugovanje upravjenja
+gui.options.page.debug.category.utility=Utility
+gui.options.page.debug.category.settings=Opcije
+gui.options.page.debug.category.test=Testy
+gui.options.page.debug.button.open.model_viewer=Otvoriti podgled modelov
+gui.options.page.debug.button.open.biome_finder=Otvoriti poisk biomov
+gui.options.page.debug.button.open.datadumper=Zapustiti damp danyh
+gui.options.page.debug.button.dump.wiki=Damp odformatirovanyh danyh Viki
+gui.options.page.debug.button.dump.invsprite=Damp PNG-sprajtov orudovanja
+gui.options.page.debug.button.dump.invsprite_apng=Damp animirovanyh PNG-sprajtov orudovanja
+gui.options.page.debug.button.dump.invsprite.tooltip=Izprva nalagajte svět: \nkolory biomov i sezonov sut vidne toliko vnutri igrovogo světa.
+gui.options.page.debug.button.open.sound_test=Zapustiti test zvukov
+gui.options.page.debug.button.open.texture_viewer=Otvoriti podgled tekstur
+gui.options.page.debug.button.open.font_tester=Test otvorjenogo fonta
+gui.options.page.debug.button.open.nbt_tester=Test NBT redaktora
+gui.options.page.debug.button.open.achievements=Otvoriti postupy
+gui.options.page.debug.button.wipestats=Udaliti statistiku
+gui.options.page.debug.button.unlockedall=Deblokovati vsu statistiku
+gui.options.page.debug.button.cheat=Vključiti čitkody
+gui.options.page.debug.button.crash.soft=Mekky kraš
+gui.options.page.debug.button.crash.hard=Težky kraš
+gui.options.page.debug.button.music.skip=Propustiti fonovu muziku
+gui.options.page.debug.button.garbage_collect=Zapustiti Garbage Collector
+gui.options.page.debug.button.reload_commands=Prězapuščanje komand
+gui.options.page.debug.button.reset_hud_onboarding=Prězapuščanje obučenja HUD redaktora
+
+gui.options.page.hidden.title=Skryte opcije
+gui.options.page.hidden.category.general=Generalno
+gui.options.page.hidden.category.general.userinterface=Interfejs
+
+gui.options.page.search.title=Poisk
+
+gui.options.difficultylock.button.no=Ne
+gui.options.difficultylock.button.yes=Da
+gui.options.difficultylock.warning.1=Vy točno hočete
+gui.options.difficultylock.warning.2=zamknuti težkost togo světa?
+gui.options.difficultylock.warning.3=(To bude nemožlivo izměniti)
+
+gui.options.hudeditor.onboarding.welcome=Dobrodošli v HUD redaktor!
+gui.options.hudeditor.onboarding.select=Natisknite '%1$s', da by izbrati komponent
+gui.options.hudeditor.onboarding.drag=Odtegnite, poka tisknite '%1$s', da by dvigati komponent
+gui.options.hudeditor.onboarding.context=Natisknite '%1$s', kogda navodite kursor na komponent, da by otvoriti kontekstne opcije
+gui.options.hudeditor.onboarding.nudge=Natisknite '%1$s', da by izměstiti izbrany komponent
+gui.options.hudeditor.onboarding.nudge_fast=Tisknite '%1$s', da by izměstiti bystrěje
+gui.options.hudeditor.onboarding.reset=Natisknite '%1$s', da by prězapustiti razklad na prědustavjenje
+gui.options.hudeditor.onboarding.exit=Natisknite '%1$s', da by izojdti iz HUD redaktora
+gui.options.hudeditor.onboarding.reopen=Natisknite '%1$s', da by uviděti toj ekran iznova!
+gui.options.hudeditor.onboarding.begin=Natisknite vo vsakom městu, da by početi
+gui.options.hudeditor.snap_to_fill=Izravniti po razměru
+gui.options.hudeditor.scale=Velikost GUI
+gui.options.hudeditor.chat_width=Širina čata
+gui.options.hudeditor.chat_height=Vysota čata
+
+gui.sound_test.label.title=Test zvukov
+gui.sound_test.label.repo=Repozitorije zvukov: %s
+gui.sound_test.label.id=ID: %s
+gui.sound_test.label.subtitle=Subtitle: %s | %s
+gui.sound_test.label.url=URL: %s
+gui.sound_test.label.select_repo=Repozitorije:
+gui.sound_test.label.select_entry=Zvuk:
+gui.sound_test.button.done=Gotovo
+gui.sound_test.button.play=Zapuščanje
+gui.sound_test.button.play_stream=Iz iztočnika
+gui.sound_test.button.reload=Prězapuščanje
+gui.sound_test.button.stop=Stop
+
+gui.texture_viewer.label.title=Podgled tekstur
+
+gui.photo_mode.label.mouse_hint=Držite knopku myši dlja prěměščenja i povrata kamery.
+gui.photo_mode.button.take_screenshot=Sdělati snimok
+gui.photo_mode.button.center_camera=Centrovati
+gui.photo_mode.button.show_player=Igrač: %s
+gui.photo_mode.button.show_player.on=VKLJ
+gui.photo_mode.button.show_player.off=IZKLJ
+gui.photo_mode.button.time_of_day=Čas: %s
+gui.photo_mode.button.time_of_day.default=STANDARD
+gui.photo_mode.button.season=Sezon: %s
+gui.photo_mode.button.season.default=STANDARD
+gui.photo_mode.button.fog=Mgla: %s
+gui.photo_mode.button.tilt=Naklon: %s
+gui.photo_mode.button.tilt.default=STANDARD
+gui.photo_mode.button.shader=Šejder: %s
+gui.photo_mode.button.shader.none=NE
+gui.photo_mode.button.intensity=Intensivnost: %s
+
+gui.select_server.label.title=Izbor servera
+gui.select_server.label.delete_title=Udaljenje servera
+gui.select_server.label.delete_confirm.1=Vy zapravdu hočete udaliti toj server?
+gui.select_server.label.delete_confirm.2='%s' bude udaljeny bezpovratno!
+gui.select_server.label.edit.1=Redaktovanje
+gui.select_server.label.edit.2=Ime servera
+gui.select_server.label.edit.3=Adres servera
+gui.select_server.label.down=ODKLJUČENY
+gui.select_server.label.outdated=ZASTARĚLY
+gui.select_server.button.join_server=Podključiti se
+gui.select_server.button.direct_connect=Po adresu
+gui.select_server.button.add_server=Dodati
+gui.select_server.button.edit=Nastrojiti
+gui.select_server.button.delete=Udaliti
+gui.select_server.button.refresh=Obnoviti
+gui.select_server.button.cancel=Anulacija
+gui.select_server.button.done=Gotovo
+gui.select_server.button.show_ip=Vidimost IP: %s
+gui.select_server.button.show_ip.on=VKLJ
+gui.select_server.button.show_ip.off=IZKLJ
+gui.select_server.button.no_jce.warning=§l§ejce odsutstvuje!
+
+gui.select_server.popup.add.prompt.name=Ime servera:
+gui.select_server.popup.add.prompt.ip=IP adres:
+gui.select_server.popup.add.button.save=Shraniti
+gui.select_server.popup.add.button.cancel=Anulacija
+gui.select_server.popup.add.showip.on=Pokazati IP: VKLJ
+gui.select_server.popup.add.showip.off=Pokazati IP: IZKLJ
+
+gui.select_server.popup.edit.prompt.name=Ime servera:
+gui.select_server.popup.edit.prompt.ip=IP adres:
+gui.select_server.popup.edit.button.save=Shraniti
+gui.select_server.popup.edit.button.cancel=Anulacija
+gui.select_server.popup.edit.showip.on=Pokazati IP: VKLJ
+gui.select_server.popup.edit.showip.off=Pokazati IP: IZKLJ
+
+gui.select_server.popup.direct.prompt.ip=IP adres:
+gui.select_server.popup.direct.button.connect=Podključiti
+gui.select_server.popup.direct.button.cancel=Anulacija
+
+gui.select_world.label.title=Izbor světa
+gui.select_world.label.world=Svět %s
+gui.select_world.label.must_be_converted=Povinny byti kovertovany!
+gui.select_world.label.dimension_corrupted=Hyba! Poškodženje měrjenja!
+gui.select_world.label.outdated=Zastarěly! Ne može byti nalagany (dopoka!)
+gui.select_world.label.delete_title=Udaljenje světaa
+gui.select_world.label.delete_confirm.1=Vy zapravdu hočete udaliti toj svět?
+gui.select_world.label.delete_confirm.2='%s' bude udaljeny bezpovratno!
+gui.select_world.label.rename_title=Redaktovanje
+gui.select_world.label.world_name=Ime světa
+gui.select_world.label.cheats=Čitkody
+gui.select_world.label.unknown=NEVĚDOMO
+gui.select_world.button.play_selected_world=Igrati v izbranom světu
+gui.select_world.button.rename=Nastrojiti
+gui.select_world.button.create_new_world=Stvoriti novy svět
+gui.select_world.button.delete=Udaliti
+gui.select_world.button.cancel=Nazad
+
+gui.sleeping.leave_bed=Slězti s ležišča
+gui.sleeping.multiplayer.leave_bed=Slězti s ležišča
+
+gui.statistics.label.title=Statistiky
+gui.statistics.label.times_used=razov upotrěbjano
+gui.statistics.label.times_mined=razov vozkopano
+gui.statistics.label.times_depleted=razov izčrpano
+gui.statistics.label.times_crafted=razov stvorjeno
+gui.statistics.button.done=Gotovo
+gui.statistics.button.general=Obče
+gui.statistics.button.blocks=Bloky
+gui.statistics.button.items=Prědmety
+
+gui.trommel.label.trommel=Prosějavatelj
+gui.trommel.label.inventory=Orudovanje
+
+gui.hud_designer.button.done=Gotovo
+
+gui.pick_monster.label.title=Izbor moba dlja prizvanja
+
+gui.model_viewer.slider.variant=Variacija: %d
+gui.model_viewer.slider.meta=Meta: %d
+gui.model_viewer.button.tickprogress=Progres tikov: %s
+gui.model_viewer.button.bulk_render=Bulk Render
+gui.model_viewer.button.rotate=Povrat nadpisa: %s
+gui.model_viewer.button.reload_textures=Obnoviti tekstury
+gui.model_viewer.button.category=Kategorija
+
+model.category.entity.info=Stvor: %s
+model.category.entity.name=Stvor
+model.category.entity.tnt.slider.fuse=Izbuh: %d
+model.category.entity.sheep.slider.color=Kolor: %s
+model.category.entity.painting.slider.motif=Obraz: %s
+model.category.entity.fireflycluster.slider.size=Razměr: %d
+model.category.entity.fireflycluster.button.cycle=Kolor: %s
+model.category.entity.item.button.cycle=Tip prědmeta
+model.category.entity.item.slider.size=Razměr: %d
+model.category.entity.sand.button.cycle=Tip bloka
+model.category.entity.creeper.button.charged=Naboj: %s
+model.category.entity.armored_zombie.button.sword=Meč: %s
+model.category.entity.wolf.button.tamed=Odomašnjeny: %s
+model.category.entity.wolf.button.sitting=Sědi: %s
+model.category.entity.wolf.button.angry=Agresija: %s
+model.category.entity.wolf.button.armor=Bronja: %s
+model.category.entity.wolf.button.item=Prědmet: %s
+model.category.entity.boat.button.flag=Horugva: %s
+model.category.entity.boat.button.wind=Větr: %s°
+model.category.entity.slime.slider.size=Slimak: %s
+model.category.entity.minecart.button.cycle=Tip vagonetky
+model.category.entity.minecart.slider.color=Color: %s
+
+model.category.block.name=Blok
+model.category.block.info=Blok: %s
+model.category.block.basket.slider.fill=Zapolnjenje: %s
+model.category.block.spawner.button.id=Mob: %s
+
+model.category.particle.name=Čestice
+model.category.particle.info=Čestice: %s
+model.category.particle.radius.slider=Radius: %s
+model.category.particle.note.slider=Note: %s
+model.category.particle.block.side=Strana: %s
+
+gui.credits.button.done=Gotovo
+gui.credits.label.title=Avtory
+
+gui.tooltip.prompt.description=%s: Opis...

@@ -1,0 +1,123 @@
+subtitles.mob.sheep=Ovca blejaje
+subtitles.mob.chicken=Kura kvokaje
+subtitles.mob.chicken.hurt=Kura je poranila se
+subtitles.mob.chicken.plop=Kura snosi jajce
+subtitles.mob.pig=Svinja grohtaje
+subtitles.mob.pig.death=Svinja pogynaje
+subtitles.mob.wolf.howl=Volk vyje
+subtitles.mob.wolf.panting=Volk dyhti
+subtitles.mob.wolf.hurt=Volk je poranil se
+subtitles.mob.wolf.bark=Volk laje
+subtitles.mob.wolf.growl=Volk buče
+subtitles.mob.wolf.death=Volk pogynaje
+subtitles.mob.wolf.whine=Volk cvili
+subtitles.mob.wolf.shake=Volk odpraši se
+subtitles.mob.cow.hurt=Krava je poranila se
+subtitles.mob.cow=Krava mučaje
+subtitles.mob.zombie=Zombi ryčit
+subtitles.mob.zombie.hurt=Zombi reve
+subtitles.mob.zombie.death=Zombi pogynaje
+subtitles.mob.zombiepig.zpighurt=Svinozombi je poranil se
+subtitles.mob.zombiepig.zpig=Svinozombi reve
+subtitles.mob.zombiepig.zpigdeath=Svinozombi pogynaje
+subtitles.mob.zombiepig.zpigangry=Svinozombi gněvaje se
+subtitles.mob.skeleton=Skelet stukaje kostami
+subtitles.mob.skeleton.death=Skelet pogynaje
+subtitles.mob.skeleton.hurt=Skelet je poranil se
+subtitles.mob.ghast.fireball=Ognjena kulja gasta
+subtitles.mob.ghast.moan=Gast plače
+subtitles.mob.ghast.death=Gast pogynaje
+subtitles.mob.ghast.scream=Krik gasta
+subtitles.mob.ghast.affectionate_scream=Čutny krik gasta
+subtitles.mob.creeper=Kriper skvrči
+subtitles.mob.creeper.death=Kriper pogynaje
+subtitles.mob.creeper.fuse=Creeper fuse
+subtitles.mob.spider.death=Pavuk pogynaje
+subtitles.mob.spider=Pavuk skvrči
+subtitles.mob.ghast.charge=Gast izstrěli
+subtitles.mob.slime.attack=Slimak atakuje
+subtitles.mob.slime=Slimak
+subtitles.mob.player.death=Igrač je pogynul
+subtitles.mob.player.hurt=Igrač je dobyl škodu
+
+subtitles.fall.small=Maly upad
+subtitles.damage.fall.big=Veliky upad
+
+subtitles.liquid.water=Voda teče
+subtitles.liquid.lava.pop=Klokot lavy
+subtitles.liquid.lava=Klokot lavy
+subtitles.liquid.splash=Bryzganje vody
+
+subtitles.portal.portal=Zavytje portala
+subtitles.portal.trigger=Vhod v portal
+subtitles.portal.travel=Izhod iz portala
+
+subtitles.item.pickup=Item pickup
+
+subtitles.random.fizz=Skvrčanje
+subtitles.random.drr=Pronikanje strěloju
+subtitles.random.fuse=Fitilj TNT je zapalil se
+subtitles.random.skate=Skating
+subtitles.random.pop=Podbradok prědmeta
+subtitles.random.glass=Steklo
+subtitles.random.door_open=Dveri otvorili se
+subtitles.random.door_close=Dveri zamknuli se
+subtitles.random.explode=Izbuh
+subtitles.random.bow=Izstrěl
+subtitles.random.hurt=Poranjenje
+subtitles.random.splash=Bryzganje
+subtitles.random.breath=Dyhanje
+subtitles.random.bite=Igrač jedaje
+subtitles.random.equip=Bronja je nanizana
+subtitles.random.stone_scrape=Stone scrape
+
+subtitles.note.snare=Maly baraban
+subtitles.note.harp=Harfa
+subtitles.note.bass=Bas
+subtitles.note.bd=Veliky baraban
+subtitles.note.pling=Elektroklavir
+subtitles.note.hat=Talirky
+subtitles.note.bassattack=Struna
+subtitles.note.chant=Vokal
+subtitles.note.drum_steel=Stalovy baraban
+subtitles.note.chip_triangle=Trikutna vala
+subtitles.note.guitar_electric=Elektrogitara
+subtitles.note.celesta=Čelesta
+subtitles.note.wood_block=Drěvo-blok
+
+subtitles.ambient.weather.thunder=Blěskavica
+subtitles.ambient.cave=Zvuky jam
+subtitles.ambient.weather.rain=Dožd
+
+subtitles.tile.piston.out=Poršenj je vključeny
+subtitles.tile.piston.in=Poršenj je izključeny
+subtitles.tile.piston.detached=Poršenj je odključil se
+subtitles.tile.piston.attached=Poršenj je podključil se
+subtitles.tile.piston.detached.out=Poršenj ne je smogl izdvignuti se
+subtitles.tile.piston.detached.in=Poršenj ne je smogl vtegnuti se
+
+subtitles.tile.tnt.fuse=TNT je podpaljeny
+subtitles.tile.sensor_block.sense=Sensor je izjavil moba
+subtitles.tile.mobspawner.spawn=Mob spavni se
+
+subtitles.tile.dispenser.click=Izkydatnik klikaje
+subtitles.tile.dispenser.eject=Izkydatnik izkydaje prědmet
+subtitles.tile.dispenser.fire=Izkydatnik izstrěli
+
+subtitles.tile.activator.click=Aktivator klikaje
+subtitles.tile.activator.use=Aktivator upotrěbjaje se
+
+subtitles.tile.crystal=Kristalny zvon
+
+subtitles.tile.scrape=Skripěnje statuje
+
+subtitles.tile.deepcrumble=Gluboko osypanje
+subtitles.tile.deepboom=Gluboky izbuh
+subtitles.tile.crumble=Osypanje
+subtitles.tile.acidbubble=Kyslinny puhyr
+subtitles.tile.deepquietboom=Gluboky tihy izbuh
+
+subtitles.hurt.flesh=Bolj ploti
+
+subtitles.fire.ignite=Ogonj je zažegl se
+subtitles.fire.fire=Ogonj razgarjaje se

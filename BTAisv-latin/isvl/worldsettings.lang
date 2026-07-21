@@ -1,0 +1,12 @@
+world_settings.values.on=VKLJ
+world_settings.values.off=IZKLJ
+
+world_settings.world_height.bottom.name=Dolna granica světa
+world_settings.world_height.ocean.name=Vysota okeana
+world_settings.world_height.top.name=Vrhna granica světa
+world_settings.single_season.enabled.name=Jedin sezon
+world_settings.single_season.value.name=
+world_settings.starting_biome.enabled.name=Početkovy biom
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=Jedin biom
+world_settings.single_biome.value.name=

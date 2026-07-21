@@ -1,0 +1,64 @@
+messages.player_joined=%s je podključil se k igrě.
+messages.player_left=%s je odključil se od igry.
+messages.player_kicked=%s je odključil se od igry.
+
+messages.illegal_characters=[SERVER] Nedopustime simboly v soobčenju čata.
+
+messages.sleep.succeed=%s je legl spati. Prijatnyh snov!
+messages.sleep.enter_bed=%s je legl v ležišče.
+messages.sleep.exit_bed=%s je vstal s ležišča.
+messages.sleep.more_required=Trěba ješče seliko igračev v ležišču, da by početi novy denj: %s.
+messages.sleep.more_required.singular=Trěba ješče %s igrač v ležišču, da by početi novy denj.
+
+messages.bed.occupied=To ležišče je zajeto.
+messages.bed.noSleep=Vy možete spati toliko nočeju či v čas burje.
+messages.bed.setSpawn=Punkt vozrodženja je ustanovjeny.
+messages.bed.notValid=Vaše domašnje ležišče odsutstvuje či je zablokovana.
+messages.bed.noAllowSleeping=Son je odključeny.
+messages.bed.unsafeToSleep=Tut nebezopasno spati.
+
+messages.wand.wrongmode=Vam trěba byti v režimu Tvorčestva, da by izkoristati toj prědmet!
+
+messages.flag.full=U vas prěmnogo mnogo horugv na toj mapě!
+messages.flag.overwrite=Nemožlivo prězapisati suči ornament.
+messages.flag.copied=Ornament horugvy je skopirovany.
+
+messages.death.mob.generic=%s je pogynul.
+messages.death.mob.lava=%s je poplaval v lavě.
+messages.death.mob.acid=%s je izkupal se v kyslině.
+messages.death.mob.spikes=%s je naskočil na trny.
+messages.death.mob.fall=%s je slomil nogy.
+messages.death.mob.drowned=%s je zadohnul se.
+messages.death.mob.fire=%s je byl izpepeljeny.
+messages.death.mob.killed_by=%s je byl ubity stvorom po imeni %s.
+
+messages.death.player.generic=%s je pogynul zagadočnoju smrtju.
+messages.death.player.lava=%s je utonul v podlivkě.
+messages.death.player.acid=%s je veče ne tvrdo tělo.
+messages.death.player.spikes=%s je izlovil se na lest.
+messages.death.player.fall=%s je zabyl zavezati šnury.
+messages.death.player.drowned=%s krmi ryb.
+messages.death.player.fire=%s je prožaril se do korky.
+messages.death.player.tnt=%s je izbuhnul blagodare igraču Popbob.
+messages.death.player.lightning=%s je byl zazemjeny.
+messages.death.player.herobrine=%s je pogynul od Herobrine.
+messages.death.player.killed_by=%s je dobyl nož v hrebet od %s.
+messages.death.player.killed_by.zombie=%s je stal zombi.
+messages.death.player.killed_by.zombie_pig=%s je uznal silu stadnogo instinkta.
+messages.death.player.killed_by.creeper=%s ne je primětil kripera.
+messages.death.player.killed_by.skeleton=%s je pal žrtvoju aimbota.
+messages.death.player.killed_by.spider=%s je zasěděl se v pavučině.
+messages.death.player.killed_by.ghast=%s ne je smogl odbiti podanje.
+messages.death.player.killed_by.slime=%s je byl zatiskany slimakom.
+messages.death.player.killed_by.wolf=%s je polučil po zaslugam.
+messages.death.player.killed_by.giant=%s je byl ubity... stojite, kym?!
+messages.death.player.killed_by.pig=%s je *silno* loši v Minecraft.
+messages.death.player.killed_by.arrow=%s je nyně podobny na podušku dlja iglic.
+messages.death.player.killed_by.arrow_player=%s je dobyl 360 nouskop od %s.
+messages.death.player.killed_by.arrow_suicide=%s je proigral v russkoj ruletkě.
+messages.death.player.killed_by.arrow_golden=%s je nyně kak švejcarsky syr.
+messages.death.player.killed_by.arrow_golden_player=%s je byl napolnjeny zlatom od %s.
+messages.death.player.killed_by.arrow_golden_suicide=%s je slovil zlatu maslinu.
+messages.death.player.killed_by.cannonball=%s je izbuhnul na oddaljenju.
+messages.death.player.killed_by.cannonball_player=%s je byl razščepjeny na atomy igračem %s.
+messages.death.player.killed_by.cannonball_suicide=%s je prěmnogo vysoko skočil.
